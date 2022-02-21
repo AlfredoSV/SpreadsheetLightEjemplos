@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpreadsheetLightEjemplo1-CreacionDeArchivo", "SpreadsheetLightEjemplo1\SpreadsheetLightEjemplo1-CreacionDeArchivo.csproj", "{F19F6C53-4CF3-4BBB-8641-BDCB6EACE078}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpreadsheetLightEjemplo2-LecturaDeArchivo", "SpreadsheetLightEjemplo2\SpreadsheetLightEjemplo2-LecturaDeArchivo.csproj", "{004D1E74-0E4E-4224-951C-11A3D6942439}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F19F6C53-4CF3-4BBB-8641-BDCB6EACE078}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F19F6C53-4CF3-4BBB-8641-BDCB6EACE078}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F19F6C53-4CF3-4BBB-8641-BDCB6EACE078}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F19F6C53-4CF3-4BBB-8641-BDCB6EACE078}.Release|Any CPU.Build.0 = Release|Any CPU
+		{004D1E74-0E4E-4224-951C-11A3D6942439}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{004D1E74-0E4E-4224-951C-11A3D6942439}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{004D1E74-0E4E-4224-951C-11A3D6942439}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{004D1E74-0E4E-4224-951C-11A3D6942439}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB3792BE-8F8A-455C-A424-7EE85D851CC0}
+	EndGlobalSection
+EndGlobal
